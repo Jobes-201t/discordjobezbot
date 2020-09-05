@@ -1,0 +1,17 @@
+{
+  "name": "jobezbot",
+  "version": "1.0.0",
+  "description": "simple discord bot jobez",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "javascript",
+    "discordjs",
+    "node"
+  ],
+  "author": "Jobez Tyrell <von.candolle32qgmail.com>",
+  "license": "MIT"
+}
